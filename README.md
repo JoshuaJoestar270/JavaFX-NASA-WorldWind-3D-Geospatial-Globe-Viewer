@@ -18,10 +18,6 @@ Demonstrates proficiency in Java, JavaFX UI development, geospatial SDK integrat
 - NASA WorldWind Java SDK  
 - SwingNode  
 
-### Screenshots
-![Globe Full View](screenshots/full-globe.png)  
-![With Marker & Zoom](screenshots/marker-zoom.png)  
-
 ### Setup Notes
 - JDK 17 or 21  
 - JavaFX SDK 21: https://gluonhq.com/products/javafx/  
